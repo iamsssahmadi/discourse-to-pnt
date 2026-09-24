@@ -22,3 +22,7 @@ type) were trained in Python on paired discourse-transcript + PNT-score
 data, then converted to ONNX and plain JSON so they run natively in the
 browser with no server. See the parent project's `train_final_models.py`
 and `web/dev/export_web_models.py` for the training/export pipeline.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
