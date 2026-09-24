@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "PNT Score Predictor (discourse-to-pnt)"
+abstract: >-
+  A client-side web application that predicts Philadelphia Naming Test
+  scores and error subtypes from a connected-speech discourse transcript,
+  using sentence embeddings and regression models run entirely in-browser.
+type: software
+authors:
+  - family-names: Ahmadi
+    given-names: Seyed Saeed
+    orcid: "https://orcid.org/0009-0005-6961-0573"
+    affiliation: "University of South Carolina"
+repository-code: "https://github.com/iamsssahmadi/discourse-to-pnt"
+url: "https://iamsssahmadi.github.io/discourse-to-pnt/"
+license: MIT
+year: 2026
+keywords:
+  - aphasia
+  - Philadelphia Naming Test
+  - discourse analysis
+  - speech-language pathology
+  - natural language processing

@@ -12,6 +12,10 @@ trained regression models all run client-side (via `transformers.js` and
 `onnxruntime-web`). Only static model files are fetched (from this site,
 plus the public embedding-model weights on first load).
 
+Companion code for: **Ahmadi, S.**, Newman-Norlund, R., …, Fridriksson, J. (2026).
+*Can Narrative Discourse Predict Confrontation Naming Performance in Aphasia?*
+Manuscript in preparation.
+
 Research use only. Not clinically validated. Does not replace formal PNT
 administration.
 
