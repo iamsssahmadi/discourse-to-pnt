@@ -1,5 +1,7 @@
 # PNT Score Predictor
 
+**Live demo:** https://iamsssahmadi.github.io/discourse-to-pnt/ (runs entirely in your browser)
+
 Paste a discourse transcript (Cinderella story retelling, or PBJ procedure
 description) and get predicted Philadelphia Naming Test (PNT) scores —
 correct responses plus 7 error subtypes.
